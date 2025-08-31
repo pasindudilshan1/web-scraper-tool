@@ -26,7 +26,7 @@ This project is a powerful web scraping tool with a modern GUI, designed to extr
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
+git clone https://github.com/pasindudilshan1/web-scraper-tool.git
 cd web-scraper-tool
 ```
 
