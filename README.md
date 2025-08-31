@@ -109,4 +109,4 @@ MIT License
 ---
 
 ## Contact
-For questions or support, open an issue or contact the maintainer.
+For questions or support, open an issue or contact me.
