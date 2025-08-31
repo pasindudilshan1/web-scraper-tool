@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+pandas
+python-dotenv==1.0.1
